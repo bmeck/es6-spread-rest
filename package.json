@@ -1,0 +1,19 @@
+{
+  "name": "es6-spread-rest",
+  "version": "0.0.0",
+  "description": "rest arguments, array spread, and argument spread compiled to ES5.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "ast-types": "~0.3.10",
+    "escodegen": "~1.0.0",
+    "esprima": "~1.1.0-dev-harmony",
+    "through": "~2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "bmeck/es6-spread-rest",
+  "author": "bradleymeck",
+  "license": "MIT"
+}
