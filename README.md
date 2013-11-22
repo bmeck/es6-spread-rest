@@ -1,5 +1,7 @@
 # es6-spread-rest
 
+rest arguments, array spread, and argument spread compiled to ES5.
+
 ## Command line
 
 If installing via npm a command line tool will be available called es6-arrow-function.
