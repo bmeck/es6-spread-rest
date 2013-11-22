@@ -2,6 +2,7 @@
   "name": "es6-spread-rest",
   "version": "0.0.0",
   "description": "rest arguments, array spread, and argument spread compiled to ES5.",
+  "bin": {"es6-spread-rest": "bin/es6-spread-rest"},
   "main": "lib/index.js",
   "dependencies": {
     "ast-types": "~0.3.10",
