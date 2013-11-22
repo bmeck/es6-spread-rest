@@ -7,7 +7,7 @@
   "dependencies": {
     "ast-types": "~0.3.10",
     "escodegen": "~1.0.0",
-    "esprima": "~1.1.0-dev-harmony",
+    "esprima": "https://github.com/ariya/esprima/tarball/harmony",
     "through": "~2.3.4"
   },
   "devDependencies": {},
